@@ -1,2 +1,2 @@
-# ejercicio-ramas-nombre-carnet
-ejercicio-ramas-nombre-carnet
+Jorge Sanabria  
+19005081
